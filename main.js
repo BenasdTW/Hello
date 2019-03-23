@@ -1,5 +1,5 @@
 
-document.write("wow!!");
+//document.write("wow!!");
 
 function setup(){
     createCanvas(400, 300);
